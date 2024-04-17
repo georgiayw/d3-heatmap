@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+#title {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#title p {
+  font-size: 20px;
+}
+
+#tooltip {
+  background-color: lavenderblush;
+  position: absolute;
+  padding: 5px;
+  font-size: 12px;
+  border-radius: 10px;
+  text-align: center;
+}
+
